@@ -67,3 +67,4 @@ bot.include! BearingPlotter
 bot.include! TableFlip
 bot.include! Move
 bot.run unless ARGV[0] == "test"
+asdasdasd
